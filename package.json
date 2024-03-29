@@ -1,0 +1,23 @@
+{
+  "name": "beta-crypt-keeper",
+  "version": "1.0.0",
+  "description": "Keeps crypts in the beta domain, providing security and preservation for digital artifacts and historical data.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/beta-crypt-keeper"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "gamma-sun-chaser": "1.0.0",
+    "delta-moon-phaser": "1.0.0",
+    "mysql": "1.0.0",
+    "react": "1.0.0"
+  }
+}
